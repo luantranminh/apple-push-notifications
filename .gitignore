@@ -41,8 +41,10 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 
-### ingoring pem file
+### ignoring pem file
 *.pem
 
+### ignoring enviroment variables file
+*.env
 
 # End of https://www.gitignore.io/api/go,linux,visualstudiocode
