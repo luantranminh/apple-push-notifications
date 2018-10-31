@@ -19,6 +19,9 @@
 /vendor/
 /Godeps/
 
+### evironment variables ###
+*.env
+
 ### Linux ###
 *~
 
